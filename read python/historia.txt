@@ -1,0 +1,2 @@
+Oi, tudo bem?
+Testando o read do Python.
