@@ -8,3 +8,13 @@ for i in palavra:
         count +=1
 
 print(count)
+
+
+# OU
+
+palavra = input("Insira uma palavra: ")
+count = 0
+
+for i in palavra:
+    count += int(i == "a")
+print(count)  

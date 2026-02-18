@@ -8,6 +8,5 @@ while True:
     saldo = input("Insira um valor: ")
     if saldo == "":
         break
-    else:
-        saldo_total += float(saldo)
+    saldo_total += float(saldo)
 print(f"O saldo total é {saldo_total}")
